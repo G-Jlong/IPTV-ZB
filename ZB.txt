@@ -1,6 +1,6 @@
 中国中央电视台,#genre#
 CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-
+CCTV-4
 中国教育电视台,#genre#
 中国教育1,http://117.59.80.3/__cl/cg:live/__c/cetv-1SD/__op/default/__f/index.m3u8
